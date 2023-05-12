@@ -1,0 +1,11 @@
+.copy-button{
+  margin-left: 20px;
+  width: 200px;
+}
+@media only screen and (max-width: 600px) {
+  .copy-button{
+    width: 100%;
+    margin-left: 0px;
+    margin-top: 15px;
+  }
+}
